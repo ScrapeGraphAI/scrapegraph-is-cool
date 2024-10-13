@@ -28,8 +28,8 @@ graph_config = {
 # ************************************************
 
 smart_scraper_graph = SmartScraperGraph(
-    prompt="List me what does the company do, the name and a contact email.",
-    source="https://scrapegraphai.com/",
+    prompt="Extract me all the products name",
+    source="https://www.amazon.com/s?k=keyboard&crid=SPZV94HXHGCF&sprefix=keyboar%2Caps%2C233&ref=nb_sb_noss_2",
     config=graph_config
 )
 
