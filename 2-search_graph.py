@@ -2,6 +2,7 @@
 Example of Search Graph
 """
 import os
+import json
 from dotenv import load_dotenv
 from scrapegraphai.graphs import SearchGraph
 
@@ -32,4 +33,4 @@ search_graph = SearchGraph(
 )
 
 result = search_graph.run()
-print(result)
+print(json.dumps(result, indent=4))

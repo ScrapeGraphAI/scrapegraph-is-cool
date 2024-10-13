@@ -42,6 +42,7 @@ graph_config = {
 
 smart_scraper_graph = SmartScraperGraph(
     source="https://www.wired.com",
+    prompt="Extract me all the articles",
     schema=Articles,
     config=graph_config
 )
