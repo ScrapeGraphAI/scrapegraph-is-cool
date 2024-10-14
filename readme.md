@@ -20,7 +20,7 @@ OPENAI_API_KEY="YOUR OPENAI API KEY"
 
 ## Content
 ### Use cases
-1. smart_scraper: extract information given a link and an eventual schema
+1. smart_scraper: extract information given a link and an eventual schema. The second example provides how to use the schema
 2. search_graph: search on internet and gives a structured output
 3. depth_search:
 4. code_generator:
