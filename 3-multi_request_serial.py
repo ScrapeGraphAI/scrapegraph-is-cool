@@ -39,5 +39,3 @@ for url in urls_to_scrape:
     graph_exec_info = smart_scraper_graph.get_execution_info()
     print(prettify_exec_info(graph_exec_info))
     total_res.append(prettify_exec_info)
-
-print(total_res)
