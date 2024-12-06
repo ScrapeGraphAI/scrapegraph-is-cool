@@ -5,6 +5,10 @@ For more examples take a look at the examples folder in ScrapegraphAI root folde
 
 You can also find also other providers
 
+## News 📰
+
+- ScrapegraphAI has now his APIs! Check it out [here](https://scrapegraphai.com)!
+
 ## Setup
 First of all you should have installed the library scrapegraphai with this command:
 
